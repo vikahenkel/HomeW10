@@ -10,7 +10,7 @@ public class Main {
         String firstName = "Ivan";
         String middleName = "Ivanovich";
         String lastName = "Ivanov";
-        String fullName = "Ivanov Ivan Ivanovich";
+        String fullName = "Ivanov " + "Ivan " + "Ivanovich";
         System.out.println("Ф.И.О сотрудника - " + fullName);
 
         System.out.println();
